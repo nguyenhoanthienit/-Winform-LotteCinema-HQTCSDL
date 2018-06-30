@@ -322,6 +322,7 @@
             this.Name = "fQuanLy";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quản_lý";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.fQuanLy_FormClosed);
             this.panel1.ResumeLayout(false);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);

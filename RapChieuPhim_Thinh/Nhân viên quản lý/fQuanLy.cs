@@ -16,5 +16,11 @@ namespace RapChieuPhim_Thinh.Nhân_viên_quản_lý
         {
             InitializeComponent();
         }
+
+        private void fQuanLy_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            fDangNhap f = new fDangNhap();
+            f.Show();
+        }
     }
 }

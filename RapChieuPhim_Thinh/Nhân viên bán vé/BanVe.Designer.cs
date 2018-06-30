@@ -236,6 +236,7 @@
             this.Name = "BanVe";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "BanVe";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.BanVe_FormClosed);
             this.panel1.ResumeLayout(false);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);

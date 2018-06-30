@@ -23,3 +23,15 @@ E:\zzzDOWNLOADzzz\RapChieuPhim_Thinh\RapChieuPhim_Thinh\obj\Debug\RapChieuPhim_T
 E:\zzzDOWNLOADzzz\RapChieuPhim_Thinh\RapChieuPhim_Thinh\obj\Debug\RapChieuPhim_Thinh.Nhân_viên_quản_lý.fQuanLy.resources
 E:\zzzDOWNLOADzzz\RapChieuPhim_Thinh\RapChieuPhim_Thinh\obj\Debug\RapChieuPhim_Thinh.Properties.Resources.resources
 E:\zzzDOWNLOADzzz\RapChieuPhim_Thinh\RapChieuPhim_Thinh\obj\Debug\RapChieuPhim_Thinh.csproj.GenerateResource.Cache
+D:\EDUCATION\Nam III\HKII\He quan tri CSDL\Do an\RapChieuPhim_Thinh\RapChieuPhim_Thinh\bin\Debug\RapChieuPhim_Thinh.exe.config
+D:\EDUCATION\Nam III\HKII\He quan tri CSDL\Do an\RapChieuPhim_Thinh\RapChieuPhim_Thinh\obj\Debug\RapChieuPhim_Thinh.exe
+D:\EDUCATION\Nam III\HKII\He quan tri CSDL\Do an\RapChieuPhim_Thinh\RapChieuPhim_Thinh\obj\Debug\RapChieuPhim_Thinh.pdb
+D:\EDUCATION\Nam III\HKII\He quan tri CSDL\Do an\RapChieuPhim_Thinh\RapChieuPhim_Thinh\bin\Debug\RapChieuPhim_Thinh.exe
+D:\EDUCATION\Nam III\HKII\He quan tri CSDL\Do an\RapChieuPhim_Thinh\RapChieuPhim_Thinh\bin\Debug\RapChieuPhim_Thinh.pdb
+D:\EDUCATION\Nam III\HKII\He quan tri CSDL\Do an\RapChieuPhim_Thinh\RapChieuPhim_Thinh\obj\Debug\RapChieuPhim_Thinh.csprojResolveAssemblyReference.cache
+D:\EDUCATION\Nam III\HKII\He quan tri CSDL\Do an\RapChieuPhim_Thinh\RapChieuPhim_Thinh\obj\Debug\RapChieuPhim_Thinh.fDangNhap.resources
+D:\EDUCATION\Nam III\HKII\He quan tri CSDL\Do an\RapChieuPhim_Thinh\RapChieuPhim_Thinh\obj\Debug\RapChieuPhim_Thinh.Nhân_viên_bán_vé.BanVe.resources
+D:\EDUCATION\Nam III\HKII\He quan tri CSDL\Do an\RapChieuPhim_Thinh\RapChieuPhim_Thinh\obj\Debug\RapChieuPhim_Thinh.Nhân_viên_bán_vé.ThemKhachHang.resources
+D:\EDUCATION\Nam III\HKII\He quan tri CSDL\Do an\RapChieuPhim_Thinh\RapChieuPhim_Thinh\obj\Debug\RapChieuPhim_Thinh.Nhân_viên_quản_lý.fQuanLy.resources
+D:\EDUCATION\Nam III\HKII\He quan tri CSDL\Do an\RapChieuPhim_Thinh\RapChieuPhim_Thinh\obj\Debug\RapChieuPhim_Thinh.Properties.Resources.resources
+D:\EDUCATION\Nam III\HKII\He quan tri CSDL\Do an\RapChieuPhim_Thinh\RapChieuPhim_Thinh\obj\Debug\RapChieuPhim_Thinh.csproj.GenerateResource.Cache

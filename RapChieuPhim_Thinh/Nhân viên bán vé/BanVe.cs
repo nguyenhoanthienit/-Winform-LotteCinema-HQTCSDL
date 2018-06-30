@@ -24,5 +24,11 @@ namespace RapChieuPhim_Thinh.Nhân_viên_bán_vé
             t.ShowDialog();
             t.Show();
         }
+
+        private void BanVe_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            fDangNhap f = new fDangNhap();
+            f.Show();
+        }
     }
 }
